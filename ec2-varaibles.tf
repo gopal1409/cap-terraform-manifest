@@ -20,5 +20,5 @@ variable "instance_keypair"{
 variable "instance_tag"{
     description = "value of the instance keypair"
     type = string
-    default = "gd-ec2"  
+    default = "gopal1-ec2"  
 }
